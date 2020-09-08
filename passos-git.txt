@@ -1,0 +1,5 @@
+git init
+git add <AnyModule>
+git commit -m "Qualquer comentário"
+git remote add origin https://github.com/JulioValaski/Sisfat-menu.git
+git push -u origin master
